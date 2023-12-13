@@ -1,12 +1,12 @@
 # Dockerfile Templates
 
-Dockerfile templates for new project.
+`Dockerfile` templates for new project.
 
 ## Current Supported
 
-| Name | Version | Build Image        | Deploy Image             | Status |
-|------|---------|--------------------|--------------------------|--------|
-| go   | `1.21`    | `golang:1.21-alpine` | `gcr.io/distroless/static` | Done   |
+| Name | Version | Build Image          | Deploy Image               |
+| ---- | ------- | -------------------- | -------------------------- |
+| go   | `1.21`  | `golang:1.21-alpine` | `gcr.io/distroless/static` |
 
 ## Contributing
 
